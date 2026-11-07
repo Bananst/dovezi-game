@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1072" height="432" viewBox="-134 -70 268 108">
+ <defs>
+  <linearGradient id="paint" x2=".1" y2="1"><stop stop-color="#a2b77b"/><stop offset=".5" stop-color="#739268"/><stop offset="1" stop-color="#49694e"/></linearGradient>
+  <linearGradient id="glass" x2=".6" y2="1"><stop stop-color="#779da1"/><stop offset="1" stop-color="#263e42"/></linearGradient>
+ </defs>
+ <g stroke="#303f36" stroke-width="1.2" stroke-linejoin="round">
+  <path d="M-130 2.4H130V18H-130Z" fill="#5a6853"/>
+  <path d="M-130-15.6H-114.4V2.4H64.4V-15.6H80V10H-130Z" fill="url(#paint)"/>
+  <path d="M80 12V-43Q80-49 86-49H111Q117-49 120-42L130-24V17H109
+   Q107-5 83.2-5Q62-5 59 17H-59Q-62-5-83.2-5Q-106-5-109 17H-130V7H80Z" fill="url(#paint)"/>
+  <path d="M85-40Q85-44 89-44H110L120-25H85Z" fill="url(#glass)"/>
+  <path d="M88-41H108L114-30" fill="none" stroke="#d2d9be"/>
+  <path d="M84-22H121V6H84Z" fill="none" stroke="#45634b" stroke-width=".8"/>
+  <path d="M88-18H96" stroke="#d4d5bb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M-130 3H79M-129-15.6H-114.4M64.4-15.6H80" stroke="#d2d6ab" stroke-width="1.5"/>
+  <path d="M-108 15Q-105-7-83.2-7Q-61-7-58 15M59 15Q62-7 83.2-7Q106-7 109 15" fill="none" stroke="#afc198" stroke-width="2.3"/>
+  <path d="M-130 8H-111M-57 13H58M111 11H130" stroke="#304a38" stroke-width="2"/>
+  <path d="M-128 7H-122V12H-128Z" fill="#be5940"/>
+  <path d="M125-16H130V-9H125Z" fill="#ffe6af"/>
+  <path d="M123-5H130V1H123" fill="#3a4d41"/>
+  <path d="M127 13H134V18H121M-134 14H-126V18H-134" fill="#c9c9b1"/>
+  <path d="M120-25L124-30" fill="none"/><rect x="124" y="-35" width="4" height="8" rx="1" fill="#b5c0ac"/>
+  <path d="M-48 7V11M-14 7V11M20 7V11" stroke="#c8cfb7" stroke-width="2"/>
+ </g>
+</svg>

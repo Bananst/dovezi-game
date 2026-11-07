@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="512" viewBox="-144 -86 288 128">
+ <defs>
+  <linearGradient id="paint" x2=".1" y2="1"><stop stop-color="#e7c575"/><stop offset=".5" stop-color="#c3a04f"/><stop offset="1" stop-color="#8e713b"/></linearGradient>
+  <linearGradient id="glass" x2=".5" y2="1"><stop stop-color="#8aaba5"/><stop offset="1" stop-color="#2b4548"/></linearGradient>
+ </defs>
+ <g stroke="#3b4033" stroke-width="1.3" stroke-linejoin="round">
+  <path d="M-140 8.2H140V25H-140Z" fill="#59533e"/>
+  <path d="M-140-31.8H-123.2V8.2H53.2V-31.8H70V16H-140Z" fill="url(#paint)"/>
+  <path d="M70 17V-55Q70-62 77-62H119Q127-62 130-53L140-29V22H119
+   Q115-1 89.6-1Q66-1 61 22H-61Q-66-1-89.6-1Q-115-1-119 22H-140V12H70Z" fill="url(#paint)"/>
+  <path d="M76-52Q76-56 80-56H117Q122-56 124-50L131-31H76Z" fill="url(#glass)"/>
+  <path d="M79-53H116L123-37" fill="none" stroke="#d9ddc0" stroke-width="1.4"/>
+  <path d="M75-27H130V10H75Z" fill="none" stroke="#8d773d" stroke-width=".8"/>
+  <path d="M80-23H89" stroke="#dbe0c6" stroke-width="2.3" stroke-linecap="round"/>
+  <path d="M73-59Q98-65 122-59" fill="none" stroke="#f5d99c" stroke-width="1.2"/>
+  <path d="M-140-31.8H-123.2M53.2-31.8H70M-137 10H68M77 13H116" stroke="#f3d99a" stroke-width="1.8"/>
+  <path d="M-120 21Q-115-3-89.6-3Q-65-3-60 21M61 21Q66-3 89.6-3Q116-3 120 21" fill="none" stroke="#dcc47e" stroke-width="3"/>
+  <path d="M-139 13H-122M-59 18H59M121 16H139" stroke="#5f583a" stroke-width="2"/>
+  <path d="M-138 12H-132V18H-138Z" fill="#b54e38"/>
+  <path d="M133-19H140V-10H133Z" fill="#ffedb4"/>
+  <path d="M131-5H140V4H131" fill="#4c523c"/>
+  <path d="M128 18H144V24H121M-144 19H-134V24H-144" fill="#c7c7ad"/>
+  <path d="M129-32L137-39" fill="none" stroke-width="1.7"/><rect x="136" y="-47" width="5" height="12" rx="1.5" fill="#bdc3a9"/>
+  <path d="M72 12H81V17H72" fill="#a7ae96"/><path d="M76 16H85V21H76" fill="#bfc0a2"/>
+  <circle cx="-131" cy="-24" r="1.2" fill="#dfe0bd"/><circle cx="61" cy="-24" r="1.2" fill="#dfe0bd"/>
+ </g>
+</svg>
