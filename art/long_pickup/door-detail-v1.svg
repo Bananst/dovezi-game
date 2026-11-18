@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1774" height="887" viewBox="0 0 1774 887">
+  <defs>
+    <linearGradient id="trim" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#ddd1b3" stop-opacity=".87"/>
+      <stop offset="1" stop-color="#a89a7b" stop-opacity=".76"/>
+    </linearGradient>
+  </defs>
+  <path fill="#233f4d" fill-opacity=".67" d="M1490 442h45v12h-45z"/>
+  <path fill="url(#trim)" d="M1492 443h41v8h-41z"/>
+</svg>
